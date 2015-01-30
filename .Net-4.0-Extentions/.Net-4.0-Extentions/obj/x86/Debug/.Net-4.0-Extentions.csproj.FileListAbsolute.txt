@@ -1,0 +1,6 @@
+C:\Deve\GitHub\.Net-4.0-Extentions\.Net-4.0-Extentions\.Net-4.0-Extentions\obj\x86\Debug\Net_4._0_Extentions.Properties.Resources.resources
+C:\Deve\GitHub\.Net-4.0-Extentions\.Net-4.0-Extentions\.Net-4.0-Extentions\obj\x86\Debug\.Net-4.0-Extentions.csproj.GenerateResource.Cache
+C:\Deve\GitHub\.Net-4.0-Extentions\.Net-4.0-Extentions\.Net-4.0-Extentions\bin\Debug\_.Net_4._0_Extentions.dll
+C:\Deve\GitHub\.Net-4.0-Extentions\.Net-4.0-Extentions\.Net-4.0-Extentions\bin\Debug\_.Net_4._0_Extentions.pdb
+C:\Deve\GitHub\.Net-4.0-Extentions\.Net-4.0-Extentions\.Net-4.0-Extentions\obj\x86\Debug\_.Net_4._0_Extentions.dll
+C:\Deve\GitHub\.Net-4.0-Extentions\.Net-4.0-Extentions\.Net-4.0-Extentions\obj\x86\Debug\_.Net_4._0_Extentions.pdb
